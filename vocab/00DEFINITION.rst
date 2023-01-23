@@ -1,3 +1,5 @@
+Terms
+=====
 Collocation:
     A collocation is a general term referring to words that usually or always go together. 
     A collocation can perform various functions in a sentence (i.e. act as different parts of speech). 
@@ -12,3 +14,10 @@ Phrase/Phrasal verb:
     and “put + off” means to delay doing something until a later time.
 
     >> 动词短语
+
+Tokens
+======
+
+**EMPTY LINE**
+    Visually, there is no content in a line,
+    when coding "\\n" just after a header or title indicator "---" means EMPTY

@@ -3,19 +3,18 @@ Semantics
 
 Meaning
 -------
--
+
 
 Synonym
 -------
--
+
 
 Label
 -----
--
+
 
 Topic
 -----
--
 
 
 Expression
@@ -23,18 +22,18 @@ Expression
 
 Phrase
 ------
--
+
 
 Collocation
 -----------
--
+
 
 Chunk
 -----
--
+
 
 Sentence
 ---------
--
+
 
 
