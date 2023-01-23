@@ -1,7 +1,7 @@
 PRODUCT
 =======
 
-Semantics
+SEMANTICS
 ---------
 
 Meaning
@@ -21,7 +21,7 @@ Topic
 `````
 commercial
 
-Expression
+EXPRESSION
 ----------
 
 Phrase

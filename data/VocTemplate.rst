@@ -2,7 +2,7 @@ WORD
 =========
 
 
-Semantics
+SEMANTICS
 ---------
 
 Meaning
@@ -18,7 +18,7 @@ Label
 Topic
 `````
 
-Expression
+EXPRESSION
 ----------
 
 Phrase

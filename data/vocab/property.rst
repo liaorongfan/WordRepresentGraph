@@ -1,7 +1,7 @@
 PROPERTY
 =========
 
-Semantics
+SEMANTICS
 ---------
 
 Meaning
@@ -25,7 +25,7 @@ Topic
 `````
 
 
-Expression
+EXPRESSION
 ----------
 
 Phrase

@@ -1,4 +1,4 @@
-cleanliness
+CLEANLINESS
 ============
 
 SEMANTICS
