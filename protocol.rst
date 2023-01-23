@@ -1,19 +1,36 @@
 Terms
 =====
+
+Phrase/Phrasal verb:
+    A phrasal verb is usually a combination of a verb + a preposition which usually changes the meaning from
+    that of the original verb. For example, “put + up with” means to tolerate, while “put + up” means to return
+    something to its original/proper position (especially when cleaning),
+    and “put + off” means to delay doing something until a later time.
+
+    => 短语 / 动词短语
+
 Collocation:
     A collocation is a general term referring to words that usually or always go together. 
     A collocation can perform various functions in a sentence (i.e. act as different parts of speech). 
     Some examples are “bunch of flowers” or “commit a crime.”
 
-    => 固定搭配
+    => 词组搭配
 
-Phrase/Phrasal verb:
-    A phrasal verb is usually a combination of a verb + a preposition which usually changes the meaning from 
-    that of the original verb. For example, “put + up with” means to tolerate, while “put + up” means to return
-    something to its original/proper position (especially when cleaning), 
-    and “put + off” means to delay doing something until a later time.
+Chunk:
+    a phrase or group of words which can be learnt as a unit by sb who is learning a language. Examples of
+    chunks are ‘Can I have the bill, please?’ and ‘Pleased to meet you’
 
-    => 动词短语
+    => 话语组成部分
+
+    In this project, idioms are treated as chunks for less word attributes used when coding
+
+Label:
+    To mark in what cases a word is most used, here are 4 types and they are reading, writing, speaking and
+    listening.
+
+    Also, a word's phonetic symbol will be noted here if necessary
+
+
 
 Tokens
 ======
