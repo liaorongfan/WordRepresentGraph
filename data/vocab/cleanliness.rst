@@ -1,7 +1,7 @@
-CLEANLINESS
+cleanliness
 ============
 
-Semantics
+SEMANTICS
 ---------
 
 Meaning
@@ -23,7 +23,7 @@ Topic
 ``````
 household / sanitation
 
-Expression
+EXPRESSION
 ----------
 
 Phrase

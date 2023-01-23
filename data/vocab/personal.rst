@@ -2,7 +2,7 @@ PERSONAL
 ========
 
 
-Semantics
+SEMANTICS
 ---------
 
 Meaning
@@ -21,7 +21,7 @@ Topic
 `````
 
 
-Expression
+EXPRESSION
 ----------
 
 Phrase
