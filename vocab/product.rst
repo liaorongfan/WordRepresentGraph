@@ -32,10 +32,11 @@ diary / household / luxury / a range of ~ ;
 Chunk
 -----
 investment in product development
->> 产品开发投资
+=> 产品开发投资
 
 to launch a new product on to the market
->> 把新产品推向市场
+=> 把新产品推向市场
+
 
 Sentence
 ---------

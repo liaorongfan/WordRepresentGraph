@@ -11,7 +11,7 @@ Synonym
 
 Label
 -----
-
+[R / W / S / L]
 
 Topic
 -----
