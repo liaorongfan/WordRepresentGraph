@@ -8,24 +8,21 @@ Meaning
 ```````
 the facts, signs or objects that make you believe that sth is true
 
-Synonym
+
+Linking
 ```````
-proof
+[syn]: proof
+
 
 Label
 `````
-[R / W / S / L]
+[task]: R / W / S / L
 
-Topic
-`````
+[topic]:  /
 
 
 EXPRESSION
 ----------
-
-Phrase
-```````
-
 
 Collocation
 ```````````

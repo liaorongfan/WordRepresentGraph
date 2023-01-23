@@ -9,24 +9,20 @@ Meaning
 ```````
 your own; not belonging to or connected with anyone else
 
-Synonym
+
+Linking
 ```````
-private / individual
+[syn]: private / individual
+
 
 Label
 `````
+[task]: R / W / S / L
 
-
-Topic
-`````
-
+[topic] :  /
 
 EXPRESSION
 ----------
-
-Phrase
-``````
-
 
 Collocation
 ```````````

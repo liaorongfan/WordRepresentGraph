@@ -8,27 +8,31 @@ SEMANTICS
 Meaning
 ```````
 
-Synonym
+
+Linking
 ```````
+[syn]:
+
 
 Label
 `````
-[R / W / S / L]
+[Task]: R / W / S / L
 
-Topic
-`````
+[Topic]:  /
+
 
 EXPRESSION
 ----------
 
-Phrase
-``````
 
 Collocation
 ```````````
 
+
 Chunk
 `````
 
+
 Sentence
 `````````
+

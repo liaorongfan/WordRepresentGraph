@@ -9,28 +9,23 @@ Meaning
 a thing that is grown or produced, usually for sale
 
 
-Synonym
+Linking
 ```````
-goods / merchandise / commodity
+[syn]: goods / merchandise / commodity
+
 
 Label
 `````
-reading / writing
+[task]: R / W / S / L
 
-Topic
-`````
-commercial
+[topic]:  /
 
 EXPRESSION
 ----------
 
-Phrase
-``````
-
-
 Collocation
 ```````````
-diary / household / luxury / a range of ~ ;
+diary / household / luxury / a range of products ;
 
 Chunk
 `````

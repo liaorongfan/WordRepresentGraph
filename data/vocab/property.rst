@@ -13,24 +13,20 @@ a thing or things that are owned by sb; a possession or possessions
 => 所有物；财产；财物
 
 
-Synonym
+Linking
 ```````
-nature
+[syn]: nature
+
 
 Label
 `````
+[task]: R / W / S / L
 
-
-Topic
-`````
+[topic]:  /
 
 
 EXPRESSION
 ----------
-
-Phrase
-``````
-
 
 Collocation
 ```````````

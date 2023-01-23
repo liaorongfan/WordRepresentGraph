@@ -8,26 +8,23 @@ Meaning
 ```````
 the state of being clean or the habit of keeping things clean
 
-Synonym
-```````
+[pronounce]: / ˈklenlinəs /
 
-pureness
+
+Linking
+```````
+[syn]: pureness
+
 
 Label
 ``````
-[R / W / S / L]
+[Task]: R / W / S / L
 
-/ ˈklenlinəs /
+[Topic]: household / sanitation
 
-Topic
-``````
-household / sanitation
 
 EXPRESSION
 ----------
-
-Phrase
-``````
 
 
 Collocation

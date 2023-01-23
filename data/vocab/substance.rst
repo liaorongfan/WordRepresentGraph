@@ -13,20 +13,19 @@ Synonym
 ```````
 matter / asset
 
+Linking
+```````
+[syn]: matter
+
+
 Label
 `````
-[R / L]
+[task]:R / W / S / L
 
-Topic
-`````
-
+[topic]:  /
 
 EXPRESSION
 ----------
-
-Phrase
-``````
-
 
 Collocation
 ```````````
