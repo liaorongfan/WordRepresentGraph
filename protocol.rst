@@ -81,7 +81,7 @@ Tokens
     If a sentence is just a short one, it'll be no need to use the indicator for
     convenience.
 
-** R / W / S / L **
+** (R / W / S / L) **
     used as [task] label for a word, where R means Reading, W denotes Writing, S indicates Speaking
     and L represents Listening
 
@@ -98,3 +98,28 @@ Key words
 [task]
 
 [topic]
+
+
+Grammar
+-------
+Description:
+
+\
+    [keyword]: <tag1> <tag2>
+
+        body
+
+==>
+
+\
+    [keyword]:
+
+    - tag1
+
+        body
+
+    - tag2
+
+        body
+
+
