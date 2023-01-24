@@ -18,6 +18,8 @@ Collocation:
 
     => 词组搭配
 
+    This fild is designed for writing
+
 Phrase/Phrasal verb:
     A phrasal verb is usually a combination of a verb + a preposition which usually changes the meaning from
     that of the original verb. For example, “put + up with” means to tolerate, while “put + up” means to return
@@ -34,7 +36,8 @@ Chunk:
 
     In this project, "idioms" are treated as chunks for less word attributes used when coding
 
-
+    This fild is designed for oral speaking English, It would be better to read its contents
+    form time to time
 
 
 
