@@ -8,11 +8,15 @@ Meaning
 ```````
 To start to exist and develop; to make sth start to exist and develop
 
-=>（使）形成
+    =>（使）形成
 
-Storm clouds are forming on the horizon. => 天边出现了暴雨云
+Storm clouds are forming on the horizon.
 
-Flowers appeared, but fruits failed to form. => 开了花，但没有结果。
+    => 天边出现了暴雨云
+
+Flowers appeared, but fruits failed to form.
+
+    => 开了花，但没有结果。
 
 Linking
 ```````
@@ -42,6 +46,7 @@ EXPRESSION
 Collocation
 ```````````
 - take form
+
     --> to gradually develop
 
     In her body a new life was taking form.

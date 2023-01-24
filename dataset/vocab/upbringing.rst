@@ -55,7 +55,7 @@ EXPRESSION
 
 Collocation
 ```````````
-- harsh / relaxed / strict / loving upbringing
+harsh / relaxed / strict / loving upbringing
 
 
 Chunk
@@ -71,3 +71,8 @@ Sentence
     Martin's upbringing shaped his whole life.
 
     I think your upbringing has prejudiced you.
+
+
+[topic]: Family
+
+    He was a Catholic by upbringing

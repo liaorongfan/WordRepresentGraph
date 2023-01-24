@@ -7,6 +7,7 @@ SEMANTICS
 Meaning
 ```````
 a type of solid, liquid or gas that has particular qualities
+
 => 物质；物品；东西
 
 Synonym
@@ -38,9 +39,11 @@ organic substance
 Chunk
 `````
 a man of substance
---> a rich and powerful man
+    --> a rich and powerful man
 
 Sentence
 `````````
-< The ancient Germans and Gauls are also credited with discovering how to
-make a substance called 'soap', made of melted animal fat and ashes. >
+[topic]:  /  [task]: L
+
+    < The ancient Germans and Gauls are also credited with discovering how to
+    make a substance called 'soap', made of melted animal fat and ashes. >
