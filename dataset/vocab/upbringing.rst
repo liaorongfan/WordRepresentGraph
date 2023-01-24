@@ -19,23 +19,23 @@ Linking
 ```````
 [syn]:
 
-- breeding
+- breeding ::
 
     the family or social background that is thought to result in good manners
 
     => 教养
 
-- nursing
+- nursing ::
 
     => 护理；看护
 
 [relate]:
 
-- upright
+- upright ::
 
     => 直立的；正直的；诚实的
 
-- upbraid
+- upbraid ::
 
     to criticize sb because you do not approve of sth that they have said or done
 
@@ -66,13 +66,13 @@ our upbringing affects what kind of adults we become
 
 Sentence
 `````````
-[topic]: Education
+[topic]: Education ::
 
     Martin's upbringing shaped his whole life.
 
     I think your upbringing has prejudiced you.
 
 
-[topic]: Family
+[topic]: Family ::
 
     He was a Catholic by upbringing
