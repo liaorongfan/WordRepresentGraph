@@ -1,5 +1,8 @@
+PROJECT PROTOCOL
+========
+
 Terms
-=====
+-----
 
 Label:
     The "Task" label is to mark in what cases a word is most used, here are 4 types and they are reading,
@@ -37,11 +40,14 @@ Chunk:
 
 
 Tokens
-======
+------
 
 **EMPTY LINE**
     Visually, there is no content in a line,
     when coding "\\n" just after a header or title indicator "---" means EMPTY
+
+** - **
+    used in the beginning of each line to separate different items
 
 ** => **
     Translation indicator, used at interpreting English into Chinese,
@@ -61,16 +67,31 @@ Tokens
     when coding
 
 ** < ... > **
-    Sentence indicator, used to lead and include a sentence.
+    Sentence indicator, used to lead and include a sentence. So as to allocate one
+    sentence in multi-lines.
 
     For example:
 
     < During the excavation of ancient Babylon, evidence was found that
     soapmaking was known as early as 2800 BC. >
 
-    So as to allocate one sentence in multi-lines
-
+    If a sentence is just a short one, it'll be no need to use the indicator for
+    convenience.
 
 ** R / W / S / L **
     used as [task] label for a word, where R means Reading, W denotes Writing, S indicates Speaking
     and L represents Listening
+
+
+Key words
+---------
+
+[syn]
+
+[relate]
+
+[pronounce]
+
+[task]
+
+[topic]

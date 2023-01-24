@@ -19,7 +19,7 @@ Linking
 
 Label
 `````
-[task]: R / W / S / L
+[task]:  L
 
 [topic]:  /
 
@@ -35,3 +35,5 @@ Chunk
 
 Sentence
 `````````
+And by the second century AD, the Greek physician Galen recommended
+soap for both medicinal and cleansing purposes.

@@ -13,10 +13,12 @@ Linking
 ```````
 [syn]:
 
+[relate]:
+
 
 Label
 `````
-[Task]: R / W / S / L
+[Task]: /
 
 [Topic]:  /
 
@@ -27,7 +29,7 @@ EXPRESSION
 
 Collocation
 ```````````
-
+-
 
 Chunk
 `````
@@ -35,4 +37,4 @@ Chunk
 
 Sentence
 `````````
-
+[topic]:

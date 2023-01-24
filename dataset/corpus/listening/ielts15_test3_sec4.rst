@@ -13,6 +13,7 @@ They also used oil mixed with ashes.
 Clothes were washed without soap in streams.
 The ancient Germans and Gauls are also credited with discovering how to make a substance called 'soap', made of melted animal fat and ashes.
 
+
 They used this mixture to tint their hair red.
 Soap got its name, according to an ancient Roman legend, from Mount Sapo, where animals were sacrificed, leaving deposits of animal fat.
 Rain washed these deposits, along with wood ashes, down into the clay soil along the River Tiber.
@@ -26,6 +27,7 @@ This lack of personal cleanliness and related unsanitary living conditions were 
 Nevertheless, soapmaking became an established craft in Europe, and associations of soapmakers guarded their trade secrets closely.
 Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.
 
+
 Gradually more varieties of soap became available for shaving and shampooing, as well as bathing and laundering.
 A major step toward large-scale commercial soapmaking occurred in 1791, when a French chemist, Nicholas Leblanc, patented a process for turning salt into soda ash, or sodium carbonate.
 Soda ash is the alkali obtained from ashes that combines with fat to form soap.
@@ -37,5 +39,6 @@ Until the 19th century, soap was regarded as a luxury item, and was heavily taxe
 As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.
 Soap was then something ordinary people could afford, and cleanliness standards improved.
 With this widespread use came the development of milder soaps for
+
 
 bathing and soaps for use in the washing machines that were available to consumers by the turn of the 20th century.

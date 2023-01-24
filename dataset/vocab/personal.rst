@@ -17,7 +17,7 @@ Linking
 
 Label
 `````
-[task]: R / W / S / L
+[task]:  L
 
 [topic] :  /
 
