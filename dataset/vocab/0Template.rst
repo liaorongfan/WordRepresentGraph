@@ -18,7 +18,7 @@ Linking
 
 Label
 `````
-[Task]: /
+[Task]: （/）
 
 [Topic]:  /
 

@@ -41,6 +41,18 @@ Linking
 
     => 申斥；训斥；责骂
 
+- raise
+
+    to care for a child or young animal until it is able to take care of itself
+
+    => 抚养；养育；培养
+
+- foster
+
+    to encourage sth to develop
+
+    => 促进；助长；培养；鼓励
+
 
 Label
 `````
