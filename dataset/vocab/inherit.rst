@@ -26,6 +26,13 @@ Linking
 - inheritor => 继承人
 - inheritabel => 可继承的，会遗传的
 
+- innate
+
+    --> (of a quality) which you are born with or naturally present.
+
+    Some children have an innate ability to do well in school.
+
+    innate + ability/ sense/ capacity/  characteristic
 
 Label
 `````
