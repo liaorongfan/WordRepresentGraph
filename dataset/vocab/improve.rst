@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
-to make something better, or to become better:
+to make something better, or to become better
+
+=> 改善，提升
 
 Linking
 ```````
