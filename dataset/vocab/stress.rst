@@ -13,7 +13,7 @@ continuous feelings of worry about your work or personal life, that prevent you 
 
 Linking
 ```````
-[syn]: strain / anxiety
+[syn]: strain / anxiety / pressure
 
 [relate]:
 
@@ -56,6 +56,7 @@ Chunk
 
 - work-related stress
 
+it can be tiring and stressful
 
 Sentence
 `````````

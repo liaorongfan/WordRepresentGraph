@@ -22,6 +22,8 @@ Linking
 
 - relationship 关系
 
+    The relationship of living things to their environment and to each other.
+
 - relevant
 
     --> closely connected with the subject you are discussing or the situation you are thinking about

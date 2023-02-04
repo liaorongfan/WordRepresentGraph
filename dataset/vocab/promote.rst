@@ -102,6 +102,10 @@ Linking
 
 - provoke => 激起
 
+- prospect
+
+    The possibility that something (usually good) will happen in the future
+
 - proxy
 
 Label
