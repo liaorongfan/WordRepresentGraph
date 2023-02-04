@@ -36,7 +36,10 @@ Collocation
 Chunk
 `````
 make you feel at ease
+
 put you feel at ease
+
+a more relaxed way of life
 
 Sentence
 `````````
