@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+a gas or other substance that is sent into the air
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

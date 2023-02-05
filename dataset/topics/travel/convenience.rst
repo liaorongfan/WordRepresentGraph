@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+Suitable for your purposes and needs and causing the least difficulty.
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +29,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- bring/ provide + convenience
 
 Chunk
 `````

@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+in which you spend a lot of time sitting down
 
+    a sedentary job/occupation/lifestyle
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

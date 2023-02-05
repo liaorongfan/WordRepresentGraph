@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+to completely destroy a building
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

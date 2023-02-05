@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+the need to take a harmful drug regularly, without being able to stop
 
+    addiction to alcohol
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

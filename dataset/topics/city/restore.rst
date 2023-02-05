@@ -7,7 +7,11 @@ SEMANTICS
 
 Meaning
 ```````
+to bring back a situation or feeling that existed before
 
+ to make something return to its former state or condition
+
+    The government promises to restore the economy to full strength
 
 Linking
 ```````
@@ -15,9 +19,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

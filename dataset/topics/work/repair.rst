@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+to fix something that is damaged, broken, split, or not working properly
 
 Linking
 ```````
@@ -15,9 +15,10 @@ Linking
 
 [relate]:
 
-- basic
+- impair
 
-- basics
+    --> to damage something or make it not as good as it should be
+
 
 Label
 `````

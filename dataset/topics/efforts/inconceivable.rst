@@ -7,17 +7,15 @@ SEMANTICS
 
 Meaning
 ```````
-
+Impossible to imagine or think of.
 
 Linking
 ```````
 [syn]:
+[opp]: conceivable
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

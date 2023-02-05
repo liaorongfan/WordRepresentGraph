@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+To control activity or process by rules.
 
 Linking
 ```````
@@ -15,9 +15,8 @@ Linking
 
 [relate]:
 
-- basic
+- regulation
 
-- basics
 
 Label
 `````
@@ -32,7 +31,9 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- regulate + activity/ industry/ market/ banks/ trade/ behaviour/ economy
+
+- closely/ strictly + regulate
 
 Chunk
 `````

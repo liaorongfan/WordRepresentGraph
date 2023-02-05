@@ -14,10 +14,8 @@ Linking
 [syn]:
 
 [relate]:
+- reusable
 
-- basic
-
-- basics
 
 Label
 `````

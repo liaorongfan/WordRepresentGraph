@@ -7,7 +7,11 @@ SEMANTICS
 
 Meaning
 ```````
+Never having happened or existed in the past.
 
+[pronounce] /ʌnˈpresɪdentɪd/
+
+    This century has witnessed environmental destruction on an unprecedented scale.
 
 Linking
 ```````
@@ -15,9 +19,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +33,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- unprecedented + level/ rate/ scale/ number
 
 Chunk
 `````

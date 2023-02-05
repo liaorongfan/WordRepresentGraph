@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+Achieving no result; not effective or successful.
 
+    Any attempt for governments to improve the local environment without individual support will be futile
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +31,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- futile attempt
 
 Chunk
 `````

@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+Time allowed from work for holiday or sickness.
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

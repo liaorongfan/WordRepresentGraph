@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+To make something less severe, difficult, unpleasant, painful etc
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +29,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- ease + pressure/ traffic/ congestion
 
 Chunk
 `````

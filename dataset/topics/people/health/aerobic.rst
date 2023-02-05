@@ -7,7 +7,8 @@ SEMANTICS
 
 Meaning
 ```````
-
+using oxygen
+[pronounce] /eəˈrəʊbɪk/
 
 Linking
 ```````
@@ -15,9 +16,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

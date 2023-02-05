@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+the state of expecting or hoping that sth, especially sth good or exciting, will happen
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,8 +29,9 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- life expectancy
 
+    Life expectancy is increasing due to advances in healthcare.
 Chunk
 `````
 

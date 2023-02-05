@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+Unwanted material left after use.
 
+    t is common for people to waste food.
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +31,8 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- waste disposal
+- harmful / hazardous / food waste
 
 Chunk
 `````

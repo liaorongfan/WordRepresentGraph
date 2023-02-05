@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+A situation in which there is too much traffic and movement is difficult
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +29,9 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- ease/ reduce/ relieve + congestion
+- road/ city/ traffic + congestion
+- congestion + charge
 
 Chunk
 `````

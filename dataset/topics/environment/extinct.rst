@@ -8,6 +8,9 @@ SEMANTICS
 Meaning
 ```````
 
+No longer existing.
+
+
 
 Linking
 ```````
@@ -15,9 +18,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +32,8 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- extinct  species
+- in danger of becoming/ on the verge of becoming  extinct
 
 Chunk
 `````

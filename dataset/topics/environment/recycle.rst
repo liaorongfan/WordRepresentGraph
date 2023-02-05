@@ -7,6 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+To convert used material into material that can be used again
+
+    It’s important for schools to recycle all of the paper that they use.
 
 
 Linking
@@ -15,9 +18,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +32,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- Recycle + products/ goods/ material
 
 Chunk
 `````

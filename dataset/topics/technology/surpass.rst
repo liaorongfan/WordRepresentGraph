@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+To do or be better than.
 
+    The abilities that the internet provides us have surpassed our expectations
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

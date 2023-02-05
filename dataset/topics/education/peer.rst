@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+a person who is the same age or who has the same social status as you
 
 Linking
 ```````
@@ -15,9 +15,7 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
+- peerless => 无与伦比的， 出类拔萃的
 
 Label
 `````
@@ -32,7 +30,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- peer pressure / learning / support / review
 
 Chunk
 `````

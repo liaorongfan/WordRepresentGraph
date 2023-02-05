@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+A loan to buy property.
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+Being fat in a way that is dangerous for health
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

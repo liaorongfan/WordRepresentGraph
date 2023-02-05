@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+a gas without colour or smell, that burns easily and is used as fuel. Natural gas consists mainly of methane
 
+[pronounce] /ˈmiːθeɪn/
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

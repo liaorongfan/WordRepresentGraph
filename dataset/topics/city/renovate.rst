@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+to repair and paint an old building, a piece of furniture, etc. so that it is in good condition again
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

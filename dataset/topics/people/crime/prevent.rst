@@ -14,10 +14,11 @@ Linking
 [syn]:
 
 [relate]:
+- prevention
 
-- basic
+    accident / crime / drug / pollution prevention
 
-- basics
+- preventable
 
 Label
 `````

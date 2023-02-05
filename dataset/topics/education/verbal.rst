@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+spoken, not written
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +29,9 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- a verbal agreement/warning
+- verbal instructions
+
 
 Chunk
 `````

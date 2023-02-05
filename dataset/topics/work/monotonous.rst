@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+Not changing and therefore boring.
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

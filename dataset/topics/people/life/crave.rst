@@ -7,17 +7,18 @@ SEMANTICS
 
 Meaning
 ```````
+to have a very strong desire for sth
 
+    She has always craved excitement.
+
+    => 她总渴望刺激。
 
 Linking
 ```````
-[syn]:
+[syn]: long for
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

@@ -7,17 +7,16 @@ SEMANTICS
 
 Meaning
 ```````
+something that encourages you to do sth
 
+=> 激励；刺激；鼓励
 
 Linking
 ```````
-[syn]:
+[syn]: motivate
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

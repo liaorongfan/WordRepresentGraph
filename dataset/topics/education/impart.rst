@@ -7,17 +7,16 @@ SEMANTICS
 
 Meaning
 ```````
+to pass information, knowledge, etc. to other people
 
+=> 通知；透露；传授
 
 Linking
 ```````
-[syn]:
+[syn]: convey
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

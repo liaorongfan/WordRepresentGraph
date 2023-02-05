@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+very busy or full of activity
 
+    I’ve had a pretty hectic day
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

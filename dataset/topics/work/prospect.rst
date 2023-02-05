@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+The possibility that something (usually good) will happen in the future.
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -36,6 +33,11 @@ Collocation
 
 Chunk
 `````
+
+enhance/ improve/ raise + prospect
+
+bleak/ daunting + prospect.
+
 
 
 Sentence

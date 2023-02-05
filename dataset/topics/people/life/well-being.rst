@@ -7,7 +7,11 @@ SEMANTICS
 
 Meaning
 ```````
+general health and happiness
 
+    emotional/physical/psychological/material well-being
+
+    to have a sense of well-being
 
 Linking
 ```````
@@ -15,9 +19,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

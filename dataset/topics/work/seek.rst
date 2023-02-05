@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+To try to find something.
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +29,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- sought after
 
 Chunk
 `````

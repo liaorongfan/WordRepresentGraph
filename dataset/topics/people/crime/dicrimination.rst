@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+Treating a person or a particular group in a worse way because of their skin, age, sex, etc
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +29,7 @@ EXPRESSION
 
 Collocation
 ```````````
--
+-  racial/ religious/ sexual/ age + discrimination
 
 Chunk
 `````

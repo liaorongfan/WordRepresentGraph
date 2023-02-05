@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+relating to the most basic and important parts of something
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,7 +29,10 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- a fundamental change
+- a fundamental problem
+- the fundamental cause
+- a fundamental issue
 
 Chunk
 `````

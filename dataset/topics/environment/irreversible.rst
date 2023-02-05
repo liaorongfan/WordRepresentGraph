@@ -7,6 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+Impossible to change or return.
+
+    Humans have had an irreversible impact on the ecology of the ocean.
 
 
 Linking
@@ -15,9 +18,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

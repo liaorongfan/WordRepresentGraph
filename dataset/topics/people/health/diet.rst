@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+a way of eating in which you only eat certain foods, in order to lose weight, or to improve your health
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -32,13 +29,15 @@ EXPRESSION
 
 Collocation
 ```````````
--
+- a balanced diet
 
 Chunk
 `````
+I'm on a diet.
 
 
 Sentence
 `````````
 [topic]:
 
+Most people find it hard to stick to a diet

@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+not likely to be true or to happen
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

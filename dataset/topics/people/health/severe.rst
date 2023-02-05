@@ -8,6 +8,9 @@ SEMANTICS
 Meaning
 ```````
 
+extremely bad or serious
+
+[pronounce]: /sɪˈvɪə(r)/
 
 Linking
 ```````
@@ -15,9 +18,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

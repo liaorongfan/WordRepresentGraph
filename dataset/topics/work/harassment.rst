@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+Behaviour that annoys or upsets someone.
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

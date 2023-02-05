@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+To make the same journey regularly between work and home.
 
+    It is exhausting to commute during rush hour.
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

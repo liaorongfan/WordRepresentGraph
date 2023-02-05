@@ -58,6 +58,8 @@ Chunk
 
 it can be tiring and stressful
 
+enormous amount of pressure  / stress
+
 Sentence
 `````````
 [topic]:

@@ -7,7 +7,7 @@ SEMANTICS
 
 Meaning
 ```````
-
+The money given by the government to people who need financial help (like unemployment benefit), or something that employees receive in addition to their salary (like health insurance).
 
 Linking
 ```````
@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

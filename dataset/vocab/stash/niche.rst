@@ -7,7 +7,9 @@ SEMANTICS
 
 Meaning
 ```````
+a comfortable or suitable role, job, way of life, etc.
 
+    He eventually found his niche in sports journalism.
 
 Linking
 ```````
@@ -15,9 +17,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````

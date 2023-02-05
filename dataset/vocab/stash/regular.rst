@@ -15,9 +15,6 @@ Linking
 
 [relate]:
 
-- basic
-
-- basics
 
 Label
 `````
@@ -33,6 +30,7 @@ EXPRESSION
 Collocation
 ```````````
 -
+- regular feature
 
 Chunk
 `````
