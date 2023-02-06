@@ -7,14 +7,20 @@ SEMANTICS
 
 Meaning
 ```````
+the lowest part of sth, especially the part or surface on which it rests or stands
+
+the most important part of something, from which new ideas develop
 
 
 Linking
 ```````
-[syn]:
+[syn]:foundation
 
 [relate]:
 
+- basic
+
+- basics
 
 Label
 `````
@@ -29,7 +35,7 @@ EXPRESSION
 
 Collocation
 ```````````
-- commute to work
+-
 
 Chunk
 `````
